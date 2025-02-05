@@ -33,8 +33,7 @@ The performance was evaluated using accuracy and loss metrics.
 ## Results and Discussion
 The training and validation loss plots indicate a steady decrease in training loss, demonstrating effective learning. However, validation loss fluctuates, suggesting potential overfitting.
 
-![Training and Validation Loss](<img width="454" alt="Screenshot 2025-02-05 164609" src="https://github.com/user-attachments/assets/2b12ef45-e3d2-4af1-b32e-8ae77025d195" />
-)
+![Training and Validation Loss]()
 
 The model achieved an accuracy of approximately **90%**, indicating its ability to generalize well on unseen data. However, further fine-tuning and hyperparameter optimization can improve performance.
 
